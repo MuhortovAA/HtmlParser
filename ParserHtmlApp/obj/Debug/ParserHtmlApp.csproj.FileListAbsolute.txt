@@ -1,0 +1,16 @@
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\ParserHtmlApp.exe.config
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\ParserHtmlApp.exe
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\ParserHtmlApp.pdb
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\AngleSharp.dll
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\System.Buffers.dll
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\AngleSharp.xml
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\System.Buffers.xml
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\obj\Debug\ParserHtmlApp.csprojAssemblyReference.cache
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\obj\Debug\ParserHtmlApp.csproj.CoreCompileInputs.cache
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\obj\Debug\ParserHtmlApp.csproj.CopyComplete
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\obj\Debug\ParserHtmlApp.exe
+C:\Users\xbest\source\repos\EpamApp\ParserHtmlApp\obj\Debug\ParserHtmlApp.pdb
